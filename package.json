@@ -1,0 +1,26 @@
+{
+    "name": "skeleton_typescript",
+    "version": "1.0.0",
+    "description": "skeleton typescript",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tmtech00/skeleton_typescript.git"
+    },
+    "author": "Takuya Maeda",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tmtech00/skeleton_typescript/issues"
+    },
+    "homepage": "https://github.com/tmtech00/skeleton_typescript#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^7.11.0",
+        "node-sass": "^4.14.1",
+        "nodemon": "^2.0.4",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.0.3"
+    }
+}
