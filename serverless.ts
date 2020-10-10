@@ -28,7 +28,7 @@ const serverlessConfiguration: Serverless = {
   },
   functions: {
     hello: {
-      handler: 'handler.hello',
+      handler: 'src/handler.hello',
       events: [
         {
           http: {
